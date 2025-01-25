@@ -1,5 +1,5 @@
+#include "coroutine.h"
 #include <assert.h>
-#include <stdlib.h>
 
 // Initial capacity of a dynamic array
 #ifndef DA_INIT_CAP
