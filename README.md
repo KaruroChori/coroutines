@@ -43,3 +43,9 @@ Make sure you have all the corresponding compilers for the languages.
 ## Special Thanks
 
 This library is heavily inspired by [libmill](https://libmill.org/) and [libdill](https://libdill.org/).
+
+## Screencast
+
+The initial implementation was done on a livestream
+
+[![thumbnail](./thumbnail.png)](https://www.youtube.com/watch?v=sYSP_elDdZw)
